@@ -1,0 +1,6 @@
+@import "tailwindcss/preflight";
+
+@tailwind utilities;
+body {
+  @apply bg-hn-background font-sans text-hn-text text-sm;
+}
